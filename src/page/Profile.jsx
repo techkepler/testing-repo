@@ -31,7 +31,7 @@ const Profile = () => {
               Welcome To Our Shop
             </h4>
             <h1 className="capitalize text-green-900 dark:text-green-500 pt-1 pb-3 text-2xl font-semibold">
-              we make your home more astonishing
+              we make your home more astonishing fuck off
             </h1>
             <p className="py-2 text-slate-600 dark:text-slate-200">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam
