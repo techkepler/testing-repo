@@ -19,8 +19,7 @@ const Profile = () => {
       <div className="pt-20"></div>
       <div className="categories md:mx-14 lg:mx-24  mt-4 lg:mt-10">
         <h1 className="text-green-900 dark:text-gray-100 font-semibold text-xl md:text-2xl px-4 uppercase">
-          About Us
-    Some Changes
+          About Us Some Changes
         </h1>
 
         <div className="about-us mt-5 flex flex-col md:flex-row gap-5 px-4 lg:gap-10 justify-center">
